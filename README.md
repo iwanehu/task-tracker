@@ -5,7 +5,7 @@ El proyecto utiliza almacenamiento en **JSON** para persistir los datos y está 
 
 El proyecto está disponible en GitHub:
 
-🔗 **https://github.com/iwanehu/task-tracker**
+🔗 [**https://github.com/iwanehu/task-tracker**](https://github.com/iwanehu/task-tracker)
 
 
 ---

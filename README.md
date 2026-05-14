@@ -3,6 +3,11 @@
 Task Tracker es una aplicación de línea de comandos escrita en **Java** que permite crear, listar, actualizar y gestionar tareas de forma sencilla.  
 El proyecto utiliza almacenamiento en **JSON** para persistir los datos y está diseñado con una arquitectura modular y extensible.
 
+El proyecto está disponible en GitHub:
+
+🔗 **https://github.com/iwanehu/task-tracker**
+
+
 ---
 
 ## 🚀 Características
